@@ -2,9 +2,9 @@ package commands
 
 import (
 	"fmt"
-	"github.com/suin/git-remind/app/appservice"
-	"github.com/suin/git-remind/app/cliutil"
-	"github.com/suin/git-remind/domain"
+	"github.com/Lickability/git-remind/app/appservice"
+	"github.com/Lickability/git-remind/app/cliutil"
+	"github.com/Lickability/git-remind/domain"
 	"github.com/urfave/cli"
 	"golang.org/x/crypto/ssh/terminal"
 	"os"

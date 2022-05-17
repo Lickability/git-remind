@@ -1,6 +1,6 @@
 package cliglobalopts
 
-import "github.com/suin/git-remind/domain"
+import "github.com/Lickability/git-remind/domain"
 
 var pathPatterns []string
 

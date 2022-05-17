@@ -1,8 +1,8 @@
 package commands
 
 import (
-	"github.com/suin/git-remind/app/appservice"
-	"github.com/suin/git-remind/app/cliutil"
+	"github.com/Lickability/git-remind/app/appservice"
+	"github.com/Lickability/git-remindapp/cliutil"
 	"github.com/urfave/cli"
 )
 
