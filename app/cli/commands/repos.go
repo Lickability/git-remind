@@ -2,7 +2,7 @@ package commands
 
 import (
 	"github.com/Lickability/git-remind/app/appservice"
-	"github.com/Lickability/git-remindapp/cliutil"
+	"github.com/Lickability/git-remind/app/cliutil"
 	"github.com/urfave/cli"
 )
 
